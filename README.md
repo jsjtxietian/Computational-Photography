@@ -11,3 +11,5 @@
 * 代码：https://nbviewer.jupyter.org/github/yourwanghao/CMUComputationalPhotography/tree/master/  https://github.com/yourwanghao/CMUComputationalPhotography
 * CMU2019：http://graphics.cs.cmu.edu/courses/15-463/
 * CMU2017：http://graphics.cs.cmu.edu/courses/15-463/2017_fall/
+
+至lesson21，cmu课程lesson9，以及一些相关实现
